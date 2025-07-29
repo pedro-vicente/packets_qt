@@ -27,5 +27,14 @@ cd packets_qt
 ./build.cmake.sh
 ```
 
+## run
+
+```bash
+cd build/packets
+sudo ./packets
+```
+
+
+
 ![Image](https://github.com/user-attachments/assets/adfc70e6-cebd-4030-8566-d0d9e628c876)
 
